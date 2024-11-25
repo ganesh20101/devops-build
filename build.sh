@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the image name and tag
-IMAGE_NAME="ganesh20101/my-static-site"
+IMAGE_NAME="ganesh20101/dev"
 IMAGE_TAG="1.2"
 
 # Build the Docker image

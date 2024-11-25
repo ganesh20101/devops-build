@@ -1,0 +1,24 @@
+# Ignore the Docker-related files
+.dockerignore
+Dockerfile
+*.tar.gz
+
+# Ignore IDE/Editor configuration files (e.g., VS Code, IntelliJ)
+.vscode/
+.idea/
+
+# Ignore local environment files
+.env
+
+# Ignore node_modules if you're working with Node.js
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore temp files
+*.tmp
+
+# Ignore any other specific files or directories
+*.pem
+
